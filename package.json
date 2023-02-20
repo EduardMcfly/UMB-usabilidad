@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "UMB-usabilidad/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
